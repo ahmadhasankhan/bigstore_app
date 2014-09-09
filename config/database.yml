@@ -51,4 +51,4 @@ production:
   <<: *default
   database: bigstore
   username: root
-  password: admin
+  password: adminadmin
